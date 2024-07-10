@@ -1,0 +1,16 @@
+.pinkbg{
+    background-color: rgb(255, 171, 185);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.xsize{
+    font-size: 24px;
+}
+#div2{
+    font-size: 36px;
+    color: blue;
+}
+#div4{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24;
+}
